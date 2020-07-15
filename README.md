@@ -40,7 +40,7 @@ Reemplazar las variables de .env por las suyas
 
 ## Licencia 📄
 
-Este proyecto está bajo la Licencia (Tu Licencia)
+Este proyecto está bajo la Licencia MIT (Ver archivo LICENSE)
 
 ## Expresiones de Gratitud 🎁
 
